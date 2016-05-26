@@ -5,8 +5,10 @@ template 采用 `docstrap`
 
 ### start
 
+```
 - git clone
 - npm install
 - npm run test
+```
 
 然后查看 `doc/` 目录下的 `index.html`
